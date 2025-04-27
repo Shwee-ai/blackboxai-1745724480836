@@ -1,0 +1,11 @@
+Bank Name,Liquidity Ratio,Capital Adequacy Ratio,ROE,Core Deposits to Total Deposits,NPAs to Total Loans,Solvency Ratio,Loans to Deposit Ratio,Common Equity Tier 1 Ratio,Minimum Tier 1 Capital Ratio,Total Capital Ratio,Leverage Ratio,Supplementary Tier 1 Ratio,Capital Conservation Buffer Ratio,Post Stress CET1 Ratio,Stress Loss %
+JP Morgan Chase,1.2,15.2,12.5,0.85,0.012,0.18,0.78,13.2,11.5,17.2,8.5,2.3,2.5,10.2,2.5
+Bank of America,1.1,14.8,11.8,0.82,0.015,0.17,0.82,12.8,11.2,16.8,8.2,2.1,2.3,9.8,2.8
+Wells Fargo,1.3,14.5,10.5,0.88,0.018,0.16,0.75,12.5,10.8,16.5,7.8,2.0,2.2,9.5,3.0
+Citigroup,1.15,15.0,11.2,0.80,0.014,0.17,0.80,13.0,11.3,17.0,8.3,2.2,2.4,9.7,2.7
+Goldman Sachs,1.25,16.2,13.5,0.75,0.010,0.19,0.72,14.2,12.5,18.2,9.0,2.5,2.7,10.5,2.3
+Morgan Stanley,1.18,15.5,12.8,0.78,0.011,0.18,0.76,13.5,11.8,17.5,8.7,2.4,2.6,10.0,2.6
+US Bancorp,1.22,14.2,11.0,0.86,0.016,0.16,0.79,12.2,10.5,16.2,7.5,1.9,2.1,9.2,3.2
+PNC Financial,1.17,14.7,10.8,0.84,0.015,0.17,0.81,12.7,11.0,16.7,8.0,2.0,2.2,9.4,2.9
+Truist Financial,1.19,14.0,10.2,0.83,0.017,0.16,0.77,12.0,10.3,16.0,7.3,1.8,2.0,9.0,3.1
+Capital One,1.16,15.8,12.0,0.81,0.013,0.18,0.83,13.8,12.1,17.8,8.8,2.4,2.6,9.9,2.4
